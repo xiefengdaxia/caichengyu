@@ -1,0 +1,11 @@
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\bin\Debug\CaiChengYu.exe
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\bin\Debug\CaiChengYu.pdb
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.csprojResolveAssemblyReference.cache
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.Form1.resources
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.Properties.Resources.resources
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.csproj.GenerateResource.Cache
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.exe
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\obj\Debug\CaiChengYu.pdb
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\bin\Debug\CaiChengYu.exe.config
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\bin\Debug\asprise-ocr-api.pdb
+D:\develop\CaiChengYu\CaiChengYu\CaiChengYu\bin\Debug\asprise-ocr-api.xml
